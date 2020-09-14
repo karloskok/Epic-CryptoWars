@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9d7f5da7d70cc24caa18428cccdb86a, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  networkUrl: http://127.0.0.1:7545
+  playerEthereumAccount: 0xa64F5EF8670a4883A62477FB5c31e5FA7a44bE66
+  playerEthereumPrivateKey: dd7393ff01c97314f8ee27bafc3709b0d8d89070e9cf9b5a7a7864ec41ab7908
+  Name: Kaelozap13
+  unitCount: 15
+  playerSingleUnitCards:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  playerDeck:
+  - {fileID: 5335383900043868514, guid: 4a03bb0a3c0e13a41a057d4ae70eb63f, type: 3}
+  - {fileID: 5335383900043868514, guid: 4a03bb0a3c0e13a41a057d4ae70eb63f, type: 3}
+  - {fileID: 5335383900043868514, guid: 4a03bb0a3c0e13a41a057d4ae70eb63f, type: 3}
+  - {fileID: 5335383900043868514, guid: 4a03bb0a3c0e13a41a057d4ae70eb63f, type: 3}
+  - {fileID: 5335383900043868514, guid: 4a03bb0a3c0e13a41a057d4ae70eb63f, type: 3}
